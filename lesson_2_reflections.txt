@@ -1,2 +1,5 @@
 Q1: What happens when you initialize a repository? Why do you need to do it?
 A: Git starts to monitor the changes in each file in that respository.
+
+Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: It is a container for the changes that need to be committed at once.
