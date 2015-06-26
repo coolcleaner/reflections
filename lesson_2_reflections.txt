@@ -3,3 +3,18 @@ A: Git starts to monitor the changes in each file in that respository.
 
 Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: It is a container for the changes that need to be committed at once.
+
+Q3: How can you use the staging area to make sure you have one commit per logical change?
+A: Make all the changes related to that logical change, add them into the staging area, and commit at once.
+
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: When I want to make changes without being afraid of affect the master.
+
+Q5: How do the diagrams help you visualize the branch structure?
+A: Visuallization.
+
+Q6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: The result will contain changes from both merging branches.
+
+Q7: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: pros: convenient. cons: might do something stupid.
