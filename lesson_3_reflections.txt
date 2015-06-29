@@ -9,3 +9,6 @@ A: fork is a concept within Github which allows you to copy the contents of othe
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 A: You can decide what commits to push to the remote repo.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: push, pull, pull request, everything will be easier.
